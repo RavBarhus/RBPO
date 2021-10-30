@@ -1,0 +1,3 @@
+C:/Users/HONOR/OneDrive/Рабочий стол/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir
+C:/Users/HONOR/OneDrive/Рабочий стол/untitled4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HONOR/OneDrive/Рабочий стол/untitled4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
